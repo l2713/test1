@@ -1,6 +1,0 @@
-﻿  1.深度优先.cpp
-D:\Users\lx567\source\C代码学习\图·\1.深度优先.cpp(89,5): error C2601: “main”: 本地函数定义是非法的
-      D:\Users\lx567\source\C代码学习\图·\1.深度优先.cpp(77,1):
-      此行有一个“{”没有匹配项
-  
-D:\Users\lx567\source\C代码学习\图·\1.深度优先.cpp(77,1): error C1075: “{”: 未找到匹配令牌
