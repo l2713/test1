@@ -1,0 +1,9 @@
+# 忽略所有 .log文件
+*.log
+#  忽略build目录下的所有内容
+build/
+# 忽略特定文件
+secret.key
+# 忽略所有系统的临时文件（如macOS的 .DS_Stroe)
+.DS_Store
+logs/app.log
