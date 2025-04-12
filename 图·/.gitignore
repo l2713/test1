@@ -7,3 +7,11 @@ secret.key
 # 忽略所有系统的临时文件（如macOS的 .DS_Stroe)
 .DS_Store
 logs/app.log
+# Python 编译文件
+*.pyc
+# macOS 临时文件
+.DS_Store
+# 编译输出目录
+/build/
+ # 环境变量文件
+.env
